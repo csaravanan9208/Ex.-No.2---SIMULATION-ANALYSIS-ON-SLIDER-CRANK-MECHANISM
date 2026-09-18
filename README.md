@@ -1,5 +1,5 @@
 # Ex. No. : 2 
-Simulation analysis on slider crank mechanism
+### Simulation analysis on slider crank mechanism
 
 ## AIM :
 
