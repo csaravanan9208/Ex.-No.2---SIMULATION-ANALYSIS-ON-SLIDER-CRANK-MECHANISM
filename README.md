@@ -1,5 +1,5 @@
 # Ex. No. : 2 
-### Simulation analysis on slider crank mechanism
+## Simulation analysis on slider crank mechanism
 
 ## AIM :
 
@@ -33,7 +33,7 @@ Assume scale 1:10
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/590ca17d-5a31-427c-816d-975478542bcd)
 
 
-## Velocity diagram
+### Velocity diagram
 Scale: 10 m/s = 100 mm (say) 
 1. The fixed point C appears as a stationary point in the velocity diagram 
 2. Draw the vector bc of length 100 mm, perpendicular to the crank CB from the configuration diagram 
